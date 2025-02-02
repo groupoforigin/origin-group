@@ -1682,7 +1682,7 @@ section,
 }
 
 .faq .faq-container .faq-item h3:hover {
-  color: var(--accent-color);
+  color: var(--default-color);
 }
 
 .faq .faq-container .faq-item .faq-content {
@@ -2048,6 +2048,10 @@ section,
   font-size: 20px;
   margin-right: 8px;
   color: var(--accent-color);
+}
+
+.displaynone{
+  display: none;
 }
 
 /*--------------------------------------------------------------
