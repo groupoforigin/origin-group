@@ -2053,6 +2053,9 @@ section,
 .displaynone{
   display: none;
 }
+.margin-dif{
+  margin-top: 40px;
+}
 
 /*--------------------------------------------------------------
 # Starter Section Section
