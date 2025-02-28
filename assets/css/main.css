@@ -1467,11 +1467,14 @@ section,
   border-radius: 5px;
   box-shadow: 0px 0 10px rgba(0, 0, 0, 0.1);
   height: 100%;
+  margin: 0 auto;
+  max-width: 300px;
 }
 
 .team .team-member .member-img {
   position: relative;
   overflow: hidden;
+
 }
 
 .team .team-member .social {
@@ -2050,8 +2053,12 @@ section,
   color: var(--accent-color);
 }
 
-.displaynone{
+.displaynone {
   display: none;
+}
+
+.margin-dif {
+  margin-top: 40px;
 }
 
 /*--------------------------------------------------------------
